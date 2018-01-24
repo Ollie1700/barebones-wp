@@ -8,7 +8,7 @@ An absolute barebones WordPress theme template. No bullshit.
 
 Working with WordPress constantly, I grew tired of using the popular WordPress boilerplates such as [Underscores](https://underscores.me/) due to the amount of bloat that is packaged with them. For example, why do I need a million different HTML template implementations when I'm just looking to initialise the bare minimum for a WP theme?
 
-## Installation
+## How do I use it?
 
 * Clone this repo to your `wp-themes` directory
 * _(Optional)_ Perform a **non case-sensitive, global** find & replace of the characters `wpbp` and replace with your project/theme name.
