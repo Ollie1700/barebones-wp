@@ -18,3 +18,7 @@ Working with WordPress constantly, I grew tired of using the popular WordPress b
 ## Have a criticism and/or suggestion?
 
 Awesome! I am by no means a WP expert so please feel free to fix/help me fix stuff. Simply submit an issue or a PR and I'll check it out.
+
+## License
+
+This project, like WordPress, is under the GNU General Public License v2.0 (GPL-2.0). If you are unfamiliar with this license and what it includes, [tldrlegal.com have a great summary](https://tldrlegal.com/license/gnu-general-public-license-v2).
