@@ -1,5 +1,7 @@
-<?php get_header(); ?>
+<?php
 
+get_header();
 
+get_search_form();
 
-<?php get_footer(); ?>
+get_footer();
