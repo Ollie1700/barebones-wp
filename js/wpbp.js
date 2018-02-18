@@ -1,9 +1,7 @@
-(function($, root) {
+(function( $ ) {
 
-    $(document).ready(function() {
+	$( document ).ready( function() {
+		// Do Stuff
+	} );
 
-        //
-
-    });
-
-})(jQuery, this);
+})( jQuery );

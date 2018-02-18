@@ -9,20 +9,22 @@
  *
  */
 
-if( !defined( 'ABSPATH' ) ) exit;
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
 
 function wpbp_customize_register( $wp_customize ) {
 
-    #=======================
-    # REMOVE UNUSED OPTIONS
-    #=======================
-    //$wp_customize->remove_section( '' );
-    //$wp_customize->remove_setting( '' );
-    //$wp_customize->remove_control( '' );
+	#=======================
+	# REMOVE UNUSED OPTIONS
+	#=======================
+	//$wp_customize->remove_section( '' );
+	//$wp_customize->remove_setting( '' );
+	//$wp_customize->remove_control( '' );
 
-    #===========
-    # SECTION 1
-    #===========
+	#===========
+	# SECTION 1
+	#===========
 
 }
 add_action( 'customize_register', 'wpbp_customize_register' );
