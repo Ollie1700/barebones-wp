@@ -31,4 +31,4 @@ I am by no means a WP expert so please feel free to fix/help me fix stuff. Simpl
 
 Special thanks to our contributors!
 
-[![https://github.com/mrxkon](https://github.com/mrxkon.png?size=40)](https://github.com/mrxkon)
+[![https://github.com/mrxkon](https://github.com/mrxkon.png?size=40)](https://github.com/mrxkon) [![https://github.com/bcpurleigh](https://github.com/bcpurleigh.png?size=40)](https://github.com/bcpurleigh)
